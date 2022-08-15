@@ -1,0 +1,9 @@
+.stop-watch{
+	height: 85vh;
+	width: 23vw;
+	background: linear-gradient(11.28deg, #682696 -11.8%, #6D2691 -10.9%, #96256B -2.43%, #B8244B 6.26%, #D22332 15.05%, #E52221 24.04%, #F02216 33.31%, #F42213 43.34%, #F5341A 50.73%, #F6602B 70.62%, #F78339 89.81%, #F79C42 108.33%, #F8AB48 124.36%, #F8B04A 141.15%);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}
